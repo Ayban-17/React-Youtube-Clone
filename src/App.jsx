@@ -4,7 +4,7 @@ import Home from "./pages/Home";
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { useEffect, useState } from "react";
-import PlayVideo from "./pages/playVideo";
+import PlayVideo from "./pages/PlayVideo";
 import Search from "./pages/Search";
 
 function App() {
