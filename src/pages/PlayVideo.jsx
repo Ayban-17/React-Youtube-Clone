@@ -208,7 +208,7 @@ const PlayVideo = ({ mainData, searchData }) => {
             </section>
             <section>
               <Filters className="static" />
-              {/* <Main mainData={mainData} /> */}
+              {/* <Main mainData={searchData} /> */}
             </section>
           </main>
         )
